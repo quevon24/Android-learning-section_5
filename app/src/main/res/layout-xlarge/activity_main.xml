@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.seccion5.seccion_05.MainActivity">
+    tools:context="com.seccion5.seccion_05.Activities.MainActivity">
 
     <fragment
         android:id="@+id/dataFragment"
-        android:name="com.seccion5.seccion_05.DataFragment"
+        android:name="com.seccion5.seccion_05.Fragments.DataFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="50"
@@ -17,7 +17,7 @@
 
     <fragment
         android:id="@+id/detailsFragment"
-        android:name="com.seccion5.seccion_05.DetailsFragment"
+        android:name="com.seccion5.seccion_05.Fragments.DetailsFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="50"

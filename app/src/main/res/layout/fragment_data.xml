@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#86f4f2"
-    tools:context="com.seccion5.seccion_05.DataFragment">
+    tools:context="com.seccion5.seccion_05.Fragments.DataFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"
